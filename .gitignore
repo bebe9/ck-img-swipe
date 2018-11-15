@@ -4,6 +4,3 @@ coverage
 .idea
 .jshintrc
 *.log
-webpack.config.js
-webpack.base.js
-webpack.example.config.js
