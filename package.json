@@ -2,7 +2,7 @@
   "name": "ck-img-swipe",
   "version": "1.0.0",
   "description": "A touch slider for vue.js.",
-  "main": "dist/img-swipe.js",
+  "main": "dist/ck-img-swipe.js",
   "scripts": {
     "dev": "webpack-dev-server --config ./webpack.example.config.js --inline --hot",
     "remote-dev": "npm run dev --host",
